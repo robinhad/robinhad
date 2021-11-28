@@ -6,7 +6,7 @@ Repository          |  Project description
 [voice-recognition-ua 🤖🎤](https://github.com/robinhad/voice-recognition-ua)  |  PoC of applying DeepSpeech(voice recognition neural network) on Ukrainian language 
 [photoscan 🏛️👀](https://github.com/robinhad/photoscan) | Application for obtaining properties (such as angle and position) of historical photo
 [article-summary 📖](https://github.com/robinhad/article-summary) | Fast and simple article summarizer designed to work with iOS shortcuts 
-
+[belarusian-tts  📢🤖](https://github.com/robinhad/belarusian-tts) | Belarusian text-to-speech
 <!--
 **robinhad/robinhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
