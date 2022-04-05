@@ -4,7 +4,6 @@ Repository          |  Project description
 :-------------------------:|:-------------------------:
 `TTS`:
 [ukrainian-tts 📢🤖](https://github.com/robinhad/ukrainian-tts) | Ukrainian text-to-speech trained on M-AILABS dataset
-[belarusian-tts  📢🤖](https://github.com/robinhad/belarusian-tts) | Belarusian text-to-speech
 `Speech-to-Text`:
 [voice-recognition-ua 🤖🎤](https://github.com/robinhad/voice-recognition-ua)  |  Speech-to-Text using DeepSpeech for Ukrainian `WER 30%`
 [wav2vec2-xls-r-ukrainian 🤖🎤](https://github.com/robinhad/wav2vec2-xls-r-ukrainian)  | Speech-to-Text using Wav2Vec2 XLS-R for Ukrainian `WER 27.99%`
