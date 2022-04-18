@@ -1,4 +1,4 @@
-# Guide to my GitHub repositories:
+# 🔍 Guide to my GitHub repositories:
 
 Repository          |  Project description
 :-------------------------:|:-------------------------:
@@ -10,16 +10,8 @@ Repository          |  Project description
 `Other`:
 [photoscan 🏛️👀](https://github.com/robinhad/photoscan) | Application for obtaining properties (such as angle and position) of historical photo
 [article-summary 📖](https://github.com/robinhad/article-summary) | Fast and simple article summarizer designed to work with iOS shortcuts 
-<!--
-**robinhad/robinhad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+# 🎯 Plans for next projects
+- [ ] VS Code notebook renderer with audio playback support
+- [ ] Ukrainian phonemizer
+- [ ] Ukrainian tokenizer for Python based on [UkrainianWordTokenizer](https://github.com/languagetool-org/languagetool/blob/66a66e5484aaaa5794fd530da18179b0bf441250/languagetool-language-modules/uk/src/main/java/org/languagetool/tokenizers/uk/UkrainianWordTokenizer.java)
