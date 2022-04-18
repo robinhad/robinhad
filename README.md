@@ -1,7 +1,7 @@
 # 🔍 Guide to my GitHub repositories:
 
 Repository          |  Project description
-:-------------------------:|:-------------------------:
+:-------------------------|:-------------------------
 `TTS`:
 [ukrainian-tts 📢🤖](https://github.com/robinhad/ukrainian-tts) | Ukrainian text-to-speech trained on M-AILABS dataset
 `Speech-to-Text`:
