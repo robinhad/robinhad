@@ -7,6 +7,8 @@ Repository          |  Project description
 `Speech-to-Text`:
 [voice-recognition-ua 🤖🎤](https://github.com/robinhad/voice-recognition-ua)  |  Speech-to-Text using DeepSpeech for Ukrainian `WER 30%`
 [wav2vec2-xls-r-ukrainian 🤖🎤](https://github.com/robinhad/wav2vec2-xls-r-ukrainian)  | Speech-to-Text using Wav2Vec2 XLS-R for Ukrainian `WER 27.99%`
+`Text-to-Text`:
+[ukrainian-qa ❓](https://github.com/robinhad/ukrainian-qa)  |  Ukrainian Question Answering models (Extractive and Generative)
 `Other`:
 [photoscan 🏛️👀](https://github.com/robinhad/photoscan) | Application for obtaining properties (such as angle and position) of historical photo
 [article-summary 📖](https://github.com/robinhad/article-summary) | Fast and simple article summarizer designed to work with iOS shortcuts 
