@@ -15,6 +15,3 @@ Repository          |  Project description
 
 # 🎯 Plans for next projects
 - [ ] VS Code notebook renderer with audio playback support [[link]](https://github.com/robinhad/vscode-notebook-wav-renderer)
-- [ ] Ukrainian phonemizer
-- [ ] Ukrainian tokenizer for Python based on [UkrainianWordTokenizer](https://github.com/languagetool-org/languagetool/blob/66a66e5484aaaa5794fd530da18179b0bf441250/languagetool-language-modules/uk/src/main/java/org/languagetool/tokenizers/uk/UkrainianWordTokenizer.java)
-- [ ] Ukrainian AI [[link]](https://github.com/robinhad/ukrainian-ai)
