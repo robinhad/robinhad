@@ -14,4 +14,4 @@ Repository          |  Project description
 [article-summary 📖](https://github.com/robinhad/article-summary) | Fast and simple article summarizer designed to work with iOS shortcuts 
 
 # 🎯 Plans for next projects
-- [ ] VS Code notebook renderer with audio playback support [[link]](https://github.com/robinhad/vscode-notebook-wav-renderer)
+- [ ] Voice Activity Detection based on Spleeter [[link]](https://github.com/robinhad/spleeter-vad)
