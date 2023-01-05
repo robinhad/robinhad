@@ -10,4 +10,5 @@ Repository          |  Project description
 [photoscan 🏛️👀](https://github.com/robinhad/photoscan) | Application for obtaining properties (such as angle and position) of historical photo
 [article-summary 📖](https://github.com/robinhad/article-summary) | Fast and simple article summarizer designed to work with iOS shortcuts 
 
-Link to HuggingFace profile: [https://huggingface.co/robinhad](https://huggingface.co/robinhad)
+Link to HuggingFace profile: [https://huggingface.co/robinhad](https://huggingface.co/robinhad) [![Open HuggingFace profile ](https://img.shields.io/badge/Open%20Profile-%F0%9F%A4%97%20-yellow)](https://huggingface.co/spaces/robinhad/ukrainian-tts)
+
