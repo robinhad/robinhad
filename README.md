@@ -3,6 +3,7 @@
 Repository          |  Project description
 :-------------------------|:-------------------------
 [ukrainian-tts 📢🤖](https://github.com/robinhad/ukrainian-tts) | Ukrainian text-to-speech
+[kruk 🤖](https://github.com/robinhad/kruk) | Ukrainian instruction-tuned language models and datasets
 [qirimtatar-tts 📢🤖](https://github.com/robinhad/qirimtatar-tts) | Crimean Tatar text-to-speech
 [voice-recognition-ua 🤖🎤](https://github.com/robinhad/voice-recognition-ua)  |  Speech-to-Text training scripts for Ukrainian `WER 27,99%`
 [ukrainian-ai 🤖](https://github.com/robinhad/ukrainian-ai)  |  End-to-End voice bot, that you can talk to in Ukrainian
