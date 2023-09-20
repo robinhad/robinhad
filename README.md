@@ -9,6 +9,7 @@ Repository          |  Project description
 [ukrainian-ai 🤖](https://github.com/robinhad/ukrainian-ai)  |  End-to-End voice bot, that you can talk to in Ukrainian
 [ukrainian-qa ❓](https://github.com/robinhad/ukrainian-qa)  |  Ukrainian Question Answering models (Extractive and Generative)
 [photoscan 🏛️👀](https://github.com/robinhad/photoscan) | Application for obtaining properties (such as angle and position) of historical photo
+[uk-voyager-audio-dataset](https://github.com/robinhad/uk-voyager-audio-dataset) | Toy dataset that contains Ukrainian recording from Voyager Golden Disc
 
 Link to HuggingFace profile: [https://huggingface.co/robinhad](https://huggingface.co/robinhad) [![Open HuggingFace profile ](https://img.shields.io/badge/Open%20Profile-%F0%9F%A4%97%20-yellow)](https://huggingface.co/robinhad)
 
